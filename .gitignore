@@ -1,3 +1,6 @@
+# for Unity
+*.meta
+
 # Compiled Object files
 *.slo
 *.lo
